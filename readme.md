@@ -1,6 +1,6 @@
 **This project used beautiful soup to scrape an entire website**
 
-## PROBLE, 
+## PROBLEM
 I and my family always had to rely on Netflix-recommended movies, which really weren't that great. My little brother suggested that it would be really cool if we knew the titles of the best movies of all time. I found this website which had all the best movies listed, but I didnt want to visit it anytime we wanted to watch a movie.
 
 ## SOLUTION 
