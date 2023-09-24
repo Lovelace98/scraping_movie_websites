@@ -9,7 +9,7 @@ URL = "https://web.archive.org/web/20200518073855/https://www.empireonline.com/m
 response = requests.get(URL)
 website_html = response.text
 
-soup = BeautifulSoup(website_html, "html.parser")
+soup = BeautifulSoup(website_html, "html5lib")
 
 #This code gets all the movies in its html tags
 all_movies = soup.find_all(name="h3", class_="title")
